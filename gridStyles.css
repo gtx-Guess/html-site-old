@@ -98,6 +98,7 @@ body{
     width: 200px;
 }
 .footer{
+    position:absolute;
     color: white;
     background-color: black;
     grid-column: 1/-1;
